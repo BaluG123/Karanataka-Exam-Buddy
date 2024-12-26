@@ -15,109 +15,127 @@
           "subject": "English Teachers",
           "subjectCode": 12,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/12.pdf"
         },
         {
           "subject": "Urdu Teachers",
           "subjectCode": 13,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/13.pdf"
         },
         {
           "subject": "Hindi Teachers",
           "subjectCode": 14,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/14.pdf"
         },
         {
           "subject": "General Science Teachers",
           "subjectCode": 15,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/15.pdf"
         },
         {
           "subject": "Inspector of Co-operative Societies",
           "subjectCode": 16,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/16.pdf"
         },
         {
           "subject": "Receptionist/ Librarian in Dept. of Information",
           "subjectCode": 17,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/17.pdf"
         },
         {
           "subject": "Physical Education Teachers",
           "subjectCode": 18,
           "date": "06-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/18.pdf"
         },
         {
           "subject": "General Studies (Degree Standard)",
           "subjectCode": 19,
           "date": "07-12-2014",
-          "session": "FN"
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/19.pdf"
         },
         {
           "subject": "Information Assistants in Information Dept.",
           "subjectCode": 20,
           "date": "07-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/20.pdf"
         },
         {
           "subject": "Assistant Engineer in the Dept. of Sericulture",
           "subjectCode": 21,
           "date": "07-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/21.pdf"
         },
         {
           "subject": "Warden & Superintendent",
           "subjectCode": 22,
           "date": "07-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/22.pdf"
         },
         {
           "subject": "Staff Nurse",
           "subjectCode": 23,
           "date": "07-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/23.pdf"
         },
         {
           "subject": "General Studies (SSLC & PUC Standard)",
           "subjectCode": 24,
           "date": "08-12-2014",
-          "session": "FN"
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/24.pdf"
         },
         {
           "subject": "Computer Science Teachers",
           "subjectCode": 25,
           "date": "08-12-2014",
-          "session": "FN"
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/25.pdf"
         },
         {
           "subject": "Mathematics Teachers",
           "subjectCode": 26,
           "date": "08-12-2014",
-          "session": "FN"
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/26.pdf"
         },
         {
           "subject": "Pharmaceutics Lecturers",
           "subjectCode": 27,
           "date": "08-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/27.pdf"
         },
         {
           "subject": "Pharmacognosy Lecturers",
           "subjectCode": 28,
           "date": "08-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/28.pdf"
         },
         {
           "subject": "Assistant Librarian in Kannada and Culture Dept.",
           "subjectCode": 29,
           "date": "08-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/29.pdf"
         },
         {
           "subject": "Arts and Crafts Teachers",
@@ -129,31 +147,36 @@
           "subject": "Principals in Minority MDRS",
           "subjectCode": 31,
           "date": "08-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/31.pdf"
         },
         {
           "subject": "Social Science Teachers",
           "subjectCode": 32,
           "date": "14-12-2014",
-          "session": "FN"
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/32.pdf"
         },
         {
           "subject": "Senior Assistant Director in Dept. of Information",
           "subjectCode": 35,
           "date": "14-12-2014",
-          "session": "FN"
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/35.pdf"
         },
         {
           "subject": "Compulsory Kannada",
           "subjectCode": 33,
           "date": "14-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/33.pdf"
         },
         {
           "subject": "Kannada Teachers",
           "subjectCode": 34,
           "date": "14-12-2014",
-          "session": "AN"
+          "session": "AN",
+          "link": "https://www.kpsc.kar.nic.in/34.pdf"
         }
       ]
     },
