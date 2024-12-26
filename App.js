@@ -24,8 +24,19 @@ const App = () => {
           component={PapersScreen}
           options={{headerShown: false}}
         />
-        <Stack.Screen name="PDFViewer" component={PDFViewerScreen} />
-        <Stack.Screen name="Splash" component={SplashScreen} />
+        <Stack.Screen
+          name="PDFViewer"
+          component={PDFViewerScreen}
+          options={{
+            title: 'PDF Viewer',
+            headerTitleAlign: 'center',
+          }}
+        />
+        <Stack.Screen
+          name="Splash"
+          component={SplashScreen}
+          options={{headerShown: false}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
