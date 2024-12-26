@@ -9,6 +9,8 @@ import {
   Animated,
   Platform,
   StatusBar,
+  PermissionsAndroid,
+  Alert,
 } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import {
@@ -16,6 +18,7 @@ import {
   heightPercentageToDP as hp,
 } from 'react-native-responsive-screen';
 import {useNavigation} from '@react-navigation/native';
+import RNFetchBlob from 'rn-fetch-blob';
 
 const PapersScreen = ({route}) => {
   const {exam} = route.params;
@@ -35,16 +38,209 @@ const PapersScreen = ({route}) => {
     </View>
   );
 
-  const handleLinkPress = async url => {
+  //   const checkPermission = async () => {
+  //     if (Platform.OS === 'ios') {
+  //       return true;
+  //     }
+
+  //     // For Android
+  //     try {
+  //       if (Platform.Version >= 33) {
+  //         // Android 13 or higher
+  //         const result = await PermissionsAndroid.requestMultiple([
+  //           PermissionsAndroid.PERMISSIONS.READ_MEDIA_IMAGES,
+  //           PermissionsAndroid.PERMISSIONS.READ_MEDIA_VIDEO,
+  //           PermissionsAndroid.PERMISSIONS.READ_MEDIA_AUDIO,
+  //         ]);
+
+  //         return Object.values(result).every(
+  //           permission => permission === PermissionsAndroid.RESULTS.GRANTED,
+  //         );
+  //       } else {
+  //         // Android 12 or lower
+  //         const granted = await PermissionsAndroid.request(
+  //           PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE,
+  //           {
+  //             title: 'Storage Permission',
+  //             message: 'App needs access to memory to download the file',
+  //             buttonNeutral: 'Ask Me Later',
+  //             buttonNegative: 'Cancel',
+  //             buttonPositive: 'OK',
+  //           },
+  //         );
+
+  //         if (granted === PermissionsAndroid.RESULTS.GRANTED) {
+  //           return true;
+  //         } else {
+  //           // Permission denied
+  //           Alert.alert(
+  //             'Permission Required',
+  //             'Please grant storage permission from app settings to download files',
+  //             [
+  //               {
+  //                 text: 'Cancel',
+  //                 style: 'cancel',
+  //               },
+  //               {
+  //                 text: 'Open Settings',
+  //                 onPress: () => {
+  //                   // Open app settings
+  //                   if (Platform.OS === 'android') {
+  //                     Linking.openSettings();
+  //                   }
+  //                 },
+  //               },
+  //             ],
+  //           );
+  //           return false;
+  //         }
+  //       }
+  //     } catch (err) {
+  //       console.warn('Permission request error:', err);
+  //       Alert.alert('Error', 'Failed to request storage permission');
+  //       return false;
+  //     }
+  //   };
+
+  const checkPermission = async () => {
+    if (Platform.OS === 'ios') {
+      return true;
+    }
+
     try {
-      const supported = await Linking.canOpenURL(url);
-      if (supported) {
-        await Linking.openURL(url);
+      if (Platform.Version >= 33) {
+        const granted = await PermissionsAndroid.check(
+          PermissionsAndroid.PERMISSIONS.READ_MEDIA_IMAGES,
+        );
+
+        if (granted) {
+          return true;
+        }
+
+        const result = await PermissionsAndroid.requestMultiple([
+          PermissionsAndroid.PERMISSIONS.READ_MEDIA_IMAGES,
+          PermissionsAndroid.PERMISSIONS.READ_MEDIA_VIDEO,
+          PermissionsAndroid.PERMISSIONS.READ_MEDIA_AUDIO,
+        ]);
+
+        return Object.values(result).every(
+          permission => permission === PermissionsAndroid.RESULTS.GRANTED,
+        );
       } else {
-        alert("Can't open this URL");
+        const granted = await PermissionsAndroid.check(
+          PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE,
+        );
+
+        if (granted) {
+          return true;
+        }
+
+        const result = await PermissionsAndroid.request(
+          PermissionsAndroid.PERMISSIONS.WRITE_EXTERNAL_STORAGE,
+          {
+            title: 'Storage Permission',
+            message: 'App needs access to memory to download the file',
+            buttonNeutral: 'Ask Me Later',
+            buttonNegative: 'Cancel',
+            buttonPositive: 'OK',
+          },
+        );
+
+        return result === PermissionsAndroid.RESULTS.GRANTED;
+      }
+    } catch (err) {
+      console.warn('Permission request error:', err);
+      Alert.alert('Error', 'Failed to request storage permission');
+      return false;
+    }
+  };
+
+  const handleLinkPress = async url => {
+    // First check and request permissions
+    const hasPermission = await checkPermission();
+    console.log('Permission status:', hasPermission);
+
+    if (!hasPermission) {
+      Alert.alert(
+        'Permission Required',
+        'Storage permission is required to download files. Please grant permission and try again.',
+      );
+      return;
+    }
+
+    try {
+      console.log('Starting download from URL:', url);
+
+      // Get filename from URL
+      const fileName = url.split('/').pop() || `exam_paper_${Date.now()}.pdf`;
+
+      // Set download path
+      const downloadPath = Platform.select({
+        ios: RNFetchBlob.fs.dirs.DocumentDir,
+        android: RNFetchBlob.fs.dirs.DownloadDir,
+      });
+
+      const filePath = `${downloadPath}/${fileName}`;
+      console.log('Downloading to:', filePath);
+
+      // Show download starting alert
+      Alert.alert(
+        'Download Started',
+        'The file download has begun. Please wait...',
+      );
+
+      // Configure download
+      const config = {
+        fileCache: true,
+        addAndroidDownloads: {
+          useDownloadManager: true,
+          notification: true,
+          path: filePath,
+          description: 'Downloading PDF file',
+          mime: 'application/pdf',
+          mediaScannable: true,
+          title: fileName,
+        },
+        IOSBackgroundTask: true,
+        path: filePath,
+      };
+
+      // Add headers
+      const headers = {
+        Accept: 'application/pdf',
+        'Content-Type': 'application/pdf',
+        'User-Agent':
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Cache-Control': 'no-cache',
+      };
+
+      const response = await RNFetchBlob.config(config).fetch(
+        'GET',
+        url,
+        headers,
+      );
+
+      console.log('Download response:', response);
+
+      if (response.info().status === 200) {
+        if (Platform.OS === 'ios') {
+          await RNFetchBlob.ios.openDocument(response.path());
+          Alert.alert('Success', 'File downloaded successfully!');
+        } else {
+          Alert.alert(
+            'Success',
+            'File downloaded successfully! Check your Downloads folder.',
+          );
+        }
+      } else {
+        throw new Error(`Server returned status ${response.info().status}`);
       }
     } catch (error) {
-      alert('Something went wrong');
+      //   console.error('Download error:', error);
+      //   Alert.alert(
+      //     'Download Failed',
+      //     'There was an error downloading the file. Please try again later.',
+      //   );
     }
   };
 
