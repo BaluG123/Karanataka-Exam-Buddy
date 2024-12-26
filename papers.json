@@ -1,0 +1,3737 @@
+{
+  "exams": [
+    {
+      "examName": "Competitive Examination Held from 06-12-2014 to 14-12-2014",
+      "date": "25-09-2014",
+      "papers": [
+        {
+          "subject": "First Division Computer Assistants",
+          "subjectCode": 11,
+          "date": "06-12-2014",
+          "session": "FN",
+          "link": "https://www.kpsc.kar.nic.in/11.pdf"
+        },
+        {
+          "subject": "English Teachers",
+          "subjectCode": 12,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Urdu Teachers",
+          "subjectCode": 13,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Hindi Teachers",
+          "subjectCode": 14,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "General Science Teachers",
+          "subjectCode": 15,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Inspector of Co-operative Societies",
+          "subjectCode": 16,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Receptionist/ Librarian in Dept. of Information",
+          "subjectCode": 17,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Physical Education Teachers",
+          "subjectCode": 18,
+          "date": "06-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "General Studies (Degree Standard)",
+          "subjectCode": 19,
+          "date": "07-12-2014",
+          "session": "FN"
+        },
+        {
+          "subject": "Information Assistants in Information Dept.",
+          "subjectCode": 20,
+          "date": "07-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Engineer in the Dept. of Sericulture",
+          "subjectCode": 21,
+          "date": "07-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Warden & Superintendent",
+          "subjectCode": 22,
+          "date": "07-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Staff Nurse",
+          "subjectCode": 23,
+          "date": "07-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "General Studies (SSLC & PUC Standard)",
+          "subjectCode": 24,
+          "date": "08-12-2014",
+          "session": "FN"
+        },
+        {
+          "subject": "Computer Science Teachers",
+          "subjectCode": 25,
+          "date": "08-12-2014",
+          "session": "FN"
+        },
+        {
+          "subject": "Mathematics Teachers",
+          "subjectCode": 26,
+          "date": "08-12-2014",
+          "session": "FN"
+        },
+        {
+          "subject": "Pharmaceutics Lecturers",
+          "subjectCode": 27,
+          "date": "08-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Pharmacognosy Lecturers",
+          "subjectCode": 28,
+          "date": "08-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Librarian in Kannada and Culture Dept.",
+          "subjectCode": 29,
+          "date": "08-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Arts and Crafts Teachers",
+          "subjectCode": 30,
+          "date": "08-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Principals in Minority MDRS",
+          "subjectCode": 31,
+          "date": "08-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Social Science Teachers",
+          "subjectCode": 32,
+          "date": "14-12-2014",
+          "session": "FN"
+        },
+        {
+          "subject": "Senior Assistant Director in Dept. of Information",
+          "subjectCode": 35,
+          "date": "14-12-2014",
+          "session": "FN"
+        },
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 33,
+          "date": "14-12-2014",
+          "session": "AN"
+        },
+        {
+          "subject": "Kannada Teachers",
+          "subjectCode": 34,
+          "date": "14-12-2014",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination to be Held from 28-08-2015 to 31-08-2015",
+      "date": "21-02-2015",
+      "papers": [
+        {
+          "subject": "Kannada Language Lecturer",
+          "subjectCode": 36,
+          "date": "28-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 37,
+          "date": "28-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "General Studies - I (Degree Standard)",
+          "subjectCode": 38,
+          "date": "29-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Computer Science Lecturer",
+          "subjectCode": 39,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Drugs Analyst in the Department of Ayush (Botany)",
+          "subjectCode": 40,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Drugs Analyst in the Department of Ayush (Chemistry)",
+          "subjectCode": 41,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Drugs Analyst in the Department of Ayush (Micro Biology)",
+          "subjectCode": 42,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Drugs Analyst in the Department of Ayush (Pharmacy)",
+          "subjectCode": 43,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "English Language Lecturer",
+          "subjectCode": 44,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Horticulture Assistant in the Department of Horticulture",
+          "subjectCode": 45,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Radiographer in the Department of ESI",
+          "subjectCode": 46,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Town Planners in the Department of Town & Rural Planning",
+          "subjectCode": 47,
+          "date": "29-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Horticulture Officer",
+          "subjectCode": 48,
+          "date": "30-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Assistant Town Planners in the Department of Town & Rural Planning",
+          "subjectCode": 49,
+          "date": "30-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Principals in Morarji Desai",
+          "subjectCode": 50,
+          "date": "30-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Staff Nurse in Morarji Desai Residential Schools",
+          "subjectCode": 51,
+          "date": "30-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Staff Nurse in the Department of Ayush",
+          "subjectCode": 51,
+          "date": "30-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Assistant Directors of Factories (Mechanical Engg.)",
+          "subjectCode": 53,
+          "date": "30-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Directors of Factories (Chemical Engg.)",
+          "subjectCode": 54,
+          "date": "30-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Directors of Factories (Electrical Engg.)",
+          "subjectCode": 55,
+          "date": "30-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Biology Lecturer",
+          "subjectCode": 56,
+          "date": "30-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Mathematics Lecturer",
+          "subjectCode": 57,
+          "date": "30-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "General Studies - II (PU, SSLC Standard)",
+          "subjectCode": 58,
+          "date": "30-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Director of Horticulture",
+          "subjectCode": 59,
+          "date": "31-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "General Studies - III (Descriptive -ADTP)",
+          "subjectCode": 60,
+          "date": "31-08-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Assistant Director in the Department of Town & Rural Planning",
+          "subjectCode": 61,
+          "date": "31-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Chemistry Lecturer",
+          "subjectCode": 62,
+          "date": "31-08-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Physics Lecturer",
+          "subjectCode": 63,
+          "date": "31-08-2015",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 03-10-2015, 04-10-2015 & 18-10-2015",
+      "date": "Dated: 25-09-2014",
+      "papers": [
+        {
+          "subject": "Computer Literacy (Objective /Multiple Choice Type)",
+          "subjectCode": 64,
+          "date": "03-10-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Compulsory Kannada Language Exam",
+          "subjectCode": 65,
+          "date": "03-10-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "General Knowledge for FDA/Assistant /Sr. Asst. in Food & Civil Supply",
+          "subjectCode": 66,
+          "date": "04-10-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Specific Paper for FDA/ Assistant / Sr. Asst. in Food & Civil Supply (General Kannada)",
+          "subjectCode": 67,
+          "date": "04-10-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Specific Paper for FDA/ Assistant / Sr. Asst. in Food & Civil Supply (General English)",
+          "subjectCode": 68,
+          "date": "04-10-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "General Knowledge Paper for SDA & Jr. Asst. in Food & Civil Supply",
+          "subjectCode": 69,
+          "date": "18-10-2015",
+          "session": "FN"
+        },
+        {
+          "subject": "Specific Paper for SDA & Jr. Asst. in Food & Civil Supply (General Kannada)",
+          "subjectCode": 70,
+          "date": "18-10-2015",
+          "session": "AN"
+        },
+        {
+          "subject": "Specific Paper for SDA & Jr. Asst. in Food & Civil Supply (General English)",
+          "subjectCode": 71,
+          "date": "18-10-2015",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 10-04-2016",
+      "date": "Dated: 04-02-2016",
+      "papers": [
+        {
+          "subject": "Common Paper for all Posts except for the posts in Food & Civil Supplies Corporation Ltd.",
+          "subjectCode": 78,
+          "date": "10-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Quality Inspector in the Dept. of Karnataka Food & Civil Supplies Corporation Ltd.",
+          "subjectCode": 77,
+          "date": "10-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "District Disabled Welfare Officer in the Dept. of Disabled & Senior Citizen Rehabilitation",
+          "subjectCode": 82,
+          "date": "10-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "AEE (Civil / WSS) / AE (Civil) / DO / ADLR",
+          "subjectCode": 83,
+          "date": "10-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Engineer (Electrical) in Mahanagara Palike in the Dept. of Municipal Administration",
+          "subjectCode": 85,
+          "date": "10-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "District Minorities Officer in the Dept. Of Minorities Welfare.",
+          "subjectCode": 86,
+          "date": "11-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Common Paper for the Posts in Food & Civil Supplies Corporation Ltd.",
+          "subjectCode": 74,
+          "date": "11-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "Senior Assistant (Accounts) in the Dept. of Karnataka",
+          "subjectCode": 75,
+          "date": "12-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Assistant Executive Engineer (Environment) in the Dept. of RDPR / Environment Engineer in Local Bodies in the Dept. of Municipal Administration / Environment Engineer in Mahanagara Palike in the Dept. of Municipal Administration",
+          "subjectCode": 84,
+          "date": "12-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 72,
+          "date": "12-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "District Insurance Officer / Assistant Directors in the Dept. of KGID",
+          "subjectCode": 81,
+          "date": "13-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Assistant Manager in the Dept. of Karnataka",
+          "subjectCode": 76,
+          "date": "13-04-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "Assistant Directors in the Dept. of Industries & Commerce (Engineering Syllabus)",
+          "subjectCode": 79,
+          "date": "17-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Assistant Directors in the Dept. of Industries & Commerce (Management Syllabus)",
+          "subjectCode": 80,
+          "date": "17-04-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Computer Literacy Test",
+          "subjectCode": 73,
+          "date": "17-04-2016",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Online Motor Vehicles Inspector & RTO Examination Held on 26-06-2016 & 10-07-2016",
+      "date": "Dated: 04-02-2016",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - I (MVI)",
+          "subjectCode": 87,
+          "date": "26-06-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Specific Paper - II (MVI)",
+          "subjectCode": 88,
+          "date": "26-06-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "General Knowledge - Paper - I (RTO)",
+          "subjectCode": 89,
+          "date": "10-07-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Specific Paper - II (RTO)",
+          "subjectCode": 90,
+          "date": "10-07-2016",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Controller / Audit Officer Online Examination Held on 21-08-2016",
+      "date": "Dated: 11-03-2016",
+      "papers": [
+        {
+          "subject": "General Studies - Paper - I",
+          "subjectCode": 91,
+          "date": "21-08-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Commerce & Management Paper - II",
+          "subjectCode": 92,
+          "date": "21-08-2016",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 28-08-2016, 10-09-2016 & 11-09-2016",
+      "date": "Dated: 03-03-2016",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - I - (Degree Standard)",
+          "subjectCode": 93,
+          "date": "28-08-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Communication Paper - II - (Degree Standard)",
+          "subjectCode": 94,
+          "date": "28-08-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Diploma, PUC & S.S.L.C. Standard)",
+          "subjectCode": 95,
+          "date": "11-09-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Communication Paper - II - (Diploma, PUC & S.S.L.C. Standard)",
+          "subjectCode": 96,
+          "date": "11-09-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 97,
+          "date": "10-09-2016",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Conservator of Forest Online Examination Held on 18-09-2016",
+      "date": "Dated: 08-06-2016",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 98,
+          "date": "18-09-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Aptitude Test Paper - 1",
+          "subjectCode": 99,
+          "date": "18-09-2016",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 12-11-2016, 14-11-2016 & 20-11-2016",
+      "date": "Dated: 24-08-2016 & 06-04-2016",
+      "papers": [
+        {
+          "subject": "Deputy Director in the Department of Kannada & Culture",
+          "subjectCode": 101,
+          "date": "12-11-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Assistant Director of Fisheries Grade -II in the Dept. of Fisheries",
+          "subjectCode": 102,
+          "date": "12-11-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Industrial Extension Officer in the Dept. of Industries & Commerce (Science)",
+          "subjectCode": 104,
+          "date": "12-11-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Industrial Extension Officer in the Dept. of Industries & Commerce (Commerce)",
+          "subjectCode": 105,
+          "date": "12-11-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Industrial Extension Officer in the Dept. of Industries & Commerce (Diploma in any branch excluding Civil)",
+          "subjectCode": 106,
+          "date": "12-11-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Child Development Project Officers in the Dept. of Women & Child Development & Superintendent Grade - I in the Dept. of Women & Child Development",
+          "subjectCode": 110,
+          "date": "12-11-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Translator in the Dept. of Translation",
+          "subjectCode": 107,
+          "date": "12-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 100,
+          "date": "12-11-2016",
+          "session": "2.00 to 5.00 PM"
+        },
+        {
+          "subject": "General Paper - 1 - (Diploma, PUC & S.S.L.C. Standard)",
+          "subjectCode": 121,
+          "date": "13-11-2016",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Assistant Statistical Officer in the Dept. of Economics & Statistics (Economics)",
+          "subjectCode": 122,
+          "date": "10-12-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Assistant Statistical Officer in the Dept. of Economics & Statistics (Mathematics)",
+          "subjectCode": 123,
+          "date": "10-12-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Assistant Statistical Officer in the Dept. of Economics & Statistics (Statistics)",
+          "subjectCode": 124,
+          "date": "10-12-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Assistant Statistical Officer in the Dept. of Economics & Statistics (Computer Science)",
+          "subjectCode": 125,
+          "date": "10-12-2016",
+          "session": "10.00 to 12.00 Noon"
+        },
+        {
+          "subject": "Junior Engineer (Civil) in the Dept. of Agricultural Marketing / Junior Engineer (Civil) in the Dept. of Karnataka Housing Board / Junior Engineer (Civil) in Town Municipalities / Municipalities in the Dept. of Municipal Administration / Junior Engineer (Civil) in City Corporation in the Dept. of Municipal Administration / Work Inspectors in City Corporation in the Dept. of Municipal Administration / Junior Engineer (Civil) in Karnataka Slum Development Board (All posts Civil below Degree)",
+          "subjectCode": 126,
+          "date": "13-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Junior Engineer (Electrical) in City Corporation in the Dept. of Municipal Administration (Electrical below Degree) & Electrician Grade-I in Town Municipalities / Municipalities in the Dept. of Municipal Administration (Electrical below Degree)",
+          "subjectCode": 127,
+          "date": "13-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Junior Health Inspectors in City Corporation in the Dept. of Municipal Administration & Junior Health Inspectors in Town Municipalities / Municipalities in the Dept. of Municipal Administration",
+          "subjectCode": 128,
+          "date": "13-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Textile Inspectors in the Dept. of Textile & Handloom",
+          "subjectCode": 129,
+          "date": "13-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Director in the Dept. of Economics & Statistics (Economics)",
+          "subjectCode": 117,
+          "date": "10-12-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Director in the Dept. of Economics & Statistics (Mathematics)",
+          "subjectCode": 118,
+          "date": "10-12-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Director in the Dept. of Economics & Statistics (Statistics)",
+          "subjectCode": 119,
+          "date": "10-12-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Director in the Dept. of Economics & Statistics (Computer Science)",
+          "subjectCode": 120,
+          "date": "10-12-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Scientific Officer (Chemical Branch) in FSL in the Dept. of Police",
+          "subjectCode": 103,
+          "date": "14-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Scientific Officer (Forensic Psychology Branch) in FSL in the Dept. of Police",
+          "subjectCode": 111,
+          "date": "14-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "General Paper -1 - (Degree Standard)",
+          "subjectCode": 108,
+          "date": "20-11-2016",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Senior Assistant Director in the Dept. of Fisheries",
+          "subjectCode": 109,
+          "date": "20-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Scientific Officer (Toxicology Branch) in FSL in the Dept. of Police",
+          "subjectCode": 112,
+          "date": "20-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Director of Textiles in the Dept. of Handlooms & Textiles & Textile Promotional Officer in the Dept. of Handlooms & Textiles",
+          "subjectCode": 113,
+          "date": "20-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Engineer (Civil) in Karnataka Housing Board (Civil Degree Standard) / Assistant Engineer (Civil) in the Dept. of Agricultural Marketing (Civil Degree Standard) & Assistant Engineer (Civil) in Karnataka Slum Development Board (Civil Degree Standard)",
+          "subjectCode": 114,
+          "date": "20-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Principals in Morarji Desai Residential Schools in the Directorate of Minorities Welfare (Studied Urdu as Language at the Degree level) & Principals in Morarji Desai Residential Schools in the Directorate of Minorities Welfare",
+          "subjectCode": 115,
+          "date": "20-11-2016",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Protection Officer in the Department of Women & Child Development",
+          "subjectCode": 116,
+          "date": "20-11-2016",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 10-12-2016, 11-12-2016 & 18-12-2016",
+      "date": "Dated: 05-10-2016 & 21-10-2016",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 130,
+          "date": "10-12-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Below Degree Standard)",
+          "subjectCode": 131,
+          "date": "11-12-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Communication Paper - II - (Below Degree Standard)",
+          "subjectCode": 132,
+          "date": "11-12-2016",
+          "session": "AN"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Degree Standard)",
+          "subjectCode": 133,
+          "date": "18-12-2016",
+          "session": "FN"
+        },
+        {
+          "subject": "Communication Paper - II - (Degree Standard)",
+          "subjectCode": 134,
+          "date": "18-12-2016",
+          "session": "AN"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 26-12-2016, 27-12-2016, 28-12-2016 & 29-12-2016",
+      "date": "Dated: 03-11-2016",
+      "papers": [
+        {
+          "subject": "General Paper - I (Common for all posts with Degree qualification)",
+          "subjectCode": 135,
+          "date": "28-12-2016",
+          "session": "9:00 AM to10:30 AM"
+        },
+        {
+          "subject": "Principals in Morarji Desai Residential P.U. College",
+          "subjectCode": 136,
+          "date": "28-12-2016",
+          "session": "3:30 PM to 5:30 PM"
+        },
+        {
+          "subject": "Kannada Language Lecturer",
+          "subjectCode": 137,
+          "date": "28-12-2016",
+          "session": "3:30 PM to 5:30 PM"
+        },
+        {
+          "subject": "English Language Lecturer (CBRT)",
+          "subjectCode": 138,
+          "date": "26-12-2016",
+          "session": "9:00 AM to11:00 AM"
+        },
+        {
+          "subject": "Physics Lecturer (CBRT)",
+          "subjectCode": 139,
+          "date": "26-12-2016",
+          "session": "12:30 PM to 2:30 PM"
+        },
+        {
+          "subject": "Chemistry Lecturer (CBRT)",
+          "subjectCode": 140,
+          "date": "26-12-2016",
+          "session": "4:00 PM to 6:00 PM"
+        },
+        {
+          "subject": "Mathematics Lecturer (CBRT)",
+          "subjectCode": 141,
+          "date": "27-12-2016",
+          "session": "9:00 AM to11:00 AM"
+        },
+        {
+          "subject": "Biology Lecturer (CBRT)",
+          "subjectCode": 142,
+          "date": "27-12-2016",
+          "session": "12:30 PM to 2:30 PM"
+        },
+        {
+          "subject": "Computer Science Lecturer (CBRT)",
+          "subjectCode": 143,
+          "date": "27-12-2016",
+          "session": "4:00 PM to 6:00 PM"
+        },
+        {
+          "subject": "Wardens",
+          "subjectCode": 144,
+          "date": "28-12-2016",
+          "session": "12:00 Noon to 2:00 PM"
+        },
+        {
+          "subject": "General Paper - I (Second Division Assistant cum Computer Operator below Degree Standard)",
+          "subjectCode": 145,
+          "date": "29-12-2016",
+          "session": "10:00 AM to11:30 AM"
+        },
+        {
+          "subject": "Second Division Assistants cum Computer Operator in Morarji Desai Residential P.U. College",
+          "subjectCode": 146,
+          "date": "29-12-2016",
+          "session": "2:00 PM to 4:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 01-02-2017 - 02-02-2017, 03-02-2017 & 04-02-2017",
+      "date": "Dated: 11-03-2016",
+      "papers": [
+        {
+          "subject": "Kannada",
+          "subjectCode": 147,
+          "date": "01-02-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "English",
+          "subjectCode": 148,
+          "date": "01-02-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "General Studies Paper - III",
+          "subjectCode": 149,
+          "date": "02-02-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "General Studies Paper - IV",
+          "subjectCode": 150,
+          "date": "02-02-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Financial Accounting, Management & Analysis",
+          "subjectCode": 151,
+          "date": "03-02-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Principles of Management, Organisation Behaviour, Training & Development",
+          "subjectCode": 152,
+          "date": "03-02-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Corporate Finance, Business Economics & Taxation",
+          "subjectCode": 153,
+          "date": "04-02-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Principles & Practice of Auditing, Computer Concepts & E-Commerce",
+          "subjectCode": 154,
+          "date": "04-02-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 12-01-2017 - 13-01-2017, 16-01-2017 & 17-01-2017",
+      "date": "Dated: 08-06-2016",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 155,
+          "date": "12-01-2017",
+          "session": "9.30 A.M. to 11.30 A.M."
+        },
+        {
+          "subject": "Compulsory English",
+          "subjectCode": 156,
+          "date": "12-01-2017",
+          "session": "2.00 P.M. to 4.00 P.M"
+        },
+        {
+          "subject": "Forestry - I",
+          "subjectCode": 157,
+          "date": "13-01-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Animal Husbandry & Veterinary Science",
+          "subjectCode": 158,
+          "date": "13-01-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Botany",
+          "subjectCode": 159,
+          "date": "13-01-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Civil Engineering",
+          "subjectCode": 160,
+          "date": "13-01-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Forestry - II",
+          "subjectCode": 161,
+          "date": "13-01-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Physics",
+          "subjectCode": 162,
+          "date": "13-01-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Agriculture",
+          "subjectCode": 163,
+          "date": "16-01-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Zoology",
+          "subjectCode": 164,
+          "date": "16-01-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Chemistry",
+          "subjectCode": 165,
+          "date": "17-01-2017",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Mathematics",
+          "subjectCode": 166,
+          "date": "17-01-2017",
+          "session": "2.00 P.M. to 5.00 P.M"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 05-02-2017, 11-02-2017 & 12-02-2017",
+      "date": "Dated: 23-03-2018",
+      "papers": [
+        {
+          "subject": "FDA/Sr. Asst. in Food & Civil Supplies corporation ltd. (Objective /Multiple Choice Type)",
+          "subjectCode": 167,
+          "date": "05-02-2017",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "FDA/ Sr. Asst. in Food & Civil Supplies corporation ltd. (Objective /Multiple Choice Type)",
+          "subjectCode": 168,
+          "date": "05-02-2017",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "FDA/ Sr. Asst. in Food & Civil Supplies corporation ltd. (Objective /Multiple Choice Type)",
+          "subjectCode": 169,
+          "date": "05-02-2017",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Exam. (Descriptive Type)",
+          "subjectCode": 170,
+          "date": "11-02-2017",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "Computer Literacy (Objective /Multiple Choice Type)",
+          "subjectCode": 171,
+          "date": "11-02-2017",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "SDA & Jr. Asst. in Food & Civil Supplies corporation ltd. (Objective /Multiple Choice Type)",
+          "subjectCode": 172,
+          "date": "12-02-2017",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "SDA & Jr. Asst. in Food & Civil Supplies corporation ltd. (Objective /Multiple Choice Type)",
+          "subjectCode": 173,
+          "date": "12-02-2017",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "SDA & Jr. Asst. in Food & Civil Supplies corporation ltd. (Objective /Multiple Choice Type)",
+          "subjectCode": 174,
+          "date": "12-02-2017",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 30-04-2017",
+      "date": "Dated: 15-03-2017",
+      "papers": [
+        {
+          "subject": "Essay Writing & Translation (Descriptive)",
+          "subjectCode": 175,
+          "date": "30-04-2017",
+          "session": "10AM to 11.30AM"
+        },
+        {
+          "subject": "General studies (Degree Standard) Objective Multiple Choice Type",
+          "subjectCode": 176,
+          "date": "30-04-2017",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 07-05-2017",
+      "date": "Dated: 15-03-2017",
+      "papers": [
+        {
+          "subject": "General Knowledge(S.S.L.C Standard) (Objective Multiple Choice Type)",
+          "subjectCode": 177,
+          "date": "07-05-2017",
+          "session": "10 AM to 12 PM"
+        },
+        {
+          "subject": "General Kannada (Objective Multiple Choice Type)",
+          "subjectCode": 178,
+          "date": "07-05-2017",
+          "session": "2 PM to 4PM"
+        },
+        {
+          "subject": "General English (Objective Multiple Choice Type)",
+          "subjectCode": 179,
+          "date": "07-05-2017",
+          "session": "2 PM to 4PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 04-06-2017 - 10-06-2017 & 11-06-2017",
+      "date": "Dated: 15-03-2017",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - I - (Degree Standard)",
+          "subjectCode": 180,
+          "date": "04-06-2017",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Communication Paper - II - (Degree Standard)",
+          "subjectCode": 181,
+          "date": "04-06-2017",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 182,
+          "date": "10-06-2017",
+          "session": "2.00 to 5.00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Below Degree Standard)",
+          "subjectCode": 183,
+          "date": "11-06-2017",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Communication Paper - II - (Below Degree Standard)",
+          "subjectCode": 184,
+          "date": "11-06-2017",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 25-05-2017",
+      "date": "Dated: 17-12-2016 & 21-01-2017",
+      "papers": [
+        {
+          "subject": "General Studies (Below Degree Standard)",
+          "subjectCode": 185,
+          "date": "25-05-2017",
+          "session": "10AM TO 11:30AM"
+        },
+        {
+          "subject": "Professors in Samhitha Siddhantha (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 186,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Kriya Shareera (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 187,
+          "date": "30-05-2017",
+          "session": "4PM TO 6PM"
+        },
+        {
+          "subject": "Professors in Rasashastra & Bhaishajya Kalpana (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 188,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Roganidana (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 189,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Swasthavritta (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 190,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Prasuti Tantra & Streeroga (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 191,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Balaroga / Kaumarabhritya (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 192,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Shalyatantra (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 193,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors in Shalakyatantra (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 194,
+          "date": "30-05-2017",
+          "session": "4PM TO 6PM"
+        },
+        {
+          "subject": "Professors in Panchakarma (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 195,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Professors & Associate Professor in Naturopathy in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 196,
+          "date": "25-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Junior Engineer (Civil) in the Dept. of Mines Geology / Junior Engineer (Civil) in Mahanagara Palikes in the Directorate of Municipal Administration / Junior Engineer (Civil) in Town Municipalities / Municipalities in the Directorate of Municipal Administration / Junior Engineer (Civil) in the Dept. of Ports & Inland Water Transport / Work Inspectors in Mahanagara Palikes in the Directorate of Municipal Administration",
+          "subjectCode": 197,
+          "date": "25-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Junior Engineer (Electrical) in Mahanagara Palikes in the Directorate of Municipal Administration / Electrician Grade-I in Town Municipalities / Municipalities in the Directorate of Municipal Administration / Electrician Grade-II in Town Municipalities / Municipalities in the Directorate of Municipal Administration",
+          "subjectCode": 198,
+          "date": "30-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Junior Health Inspectors in Town Municipalities / Municipalities in the Directorate of Municipal Administration",
+          "subjectCode": 199,
+          "date": "29-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Supervisor in the Dept. of Ports & Inland Water Transport",
+          "subjectCode": 200,
+          "date": "31-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Professors & Associate Professor in Yoga in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 201,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Kriya Shareera (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 202,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Roganidana (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 203,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Prasuti Tantra & Streeroga (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 204,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Kayachikitsa (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 205,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Anatomy (Homeopathy) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 206,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Pathology & Microbiology (Homeopathy) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 207,
+          "date": "25-05-2017",
+          "session": "4PM TO 6PM"
+        },
+        {
+          "subject": "Associate Professors in Practice of Medicine (Homeopathy) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 208,
+          "date": "30-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Surgery (Homeopathy) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 209,
+          "date": "30-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Associate Professors in Obstetrics & Gynaecology (Homeopathy) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 210,
+          "date": "30-05-2017",
+          "session": "4PM TO 6PM"
+        },
+        {
+          "subject": "Associate Professors in Kulliyat-e-Tibb (Basic Principles) (Unani) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 211,
+          "date": "25-05-2017",
+          "session": "4PM TO 6PM"
+        },
+        {
+          "subject": "Associate Professors in Tashreeh-ul-Badan (Anatomy) (Unani) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 212,
+          "date": "25-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Associate Professors in Moalajat (Medicine) (Unani) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 213,
+          "date": "30-05-2017",
+          "session": "4PM TO 6PM"
+        },
+        {
+          "subject": "Associate Professors in Niswan-wa-atfal (Gynaecology & Pediatrics) (Unani) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 214,
+          "date": "30-05-2017",
+          "session": "9AM TO 11AM"
+        },
+        {
+          "subject": "Associate Professors in Ilmul Qabalat (Obstetrics) (Unani) in Ayush Medical Colleges in the Dept. of Ayush",
+          "subjectCode": 215,
+          "date": "30-05-2017",
+          "session": "12.30PM TO 2.30PM"
+        },
+        {
+          "subject": "Physics Lecturer in Morarji Desai Residential PU Colleges in the Dept. of Minorities / Post Graduate Physics Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 216,
+          "date": "25-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Chemist in the Dept. of Mines and Geology",
+          "subjectCode": 217,
+          "date": "30-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Assistant Engineer (Civil) in Mahanagara Palike in the Directorate of Municipal Administration / Assistant Engineer (Civil) in Urban Local Bodies in the Directorate of Municipal Administration / Assistant Director of Land Records (Executive) in the Dept. of Survey Settlement and Land Records",
+          "subjectCode": 218,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Assistant Engineer (Electrical) in Mahanagara Palike in the Directorate of Municipal Administration",
+          "subjectCode": 222,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Urdu Language Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities / Post Graduate Urdu Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 230,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Mathematics Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities / Post Graduate Mathematics Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 231,
+          "date": "30-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Biology Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 232,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "History Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 233,
+          "date": "29-05-2017",
+          "session": "2PM TO 4 PM"
+        },
+        {
+          "subject": "Accountancy Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 234,
+          "date": "30-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Junior Scientific Officer in the Dept. of Drugs Control",
+          "subjectCode": 235,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Lecturers in Pharmacognacy (backlog) in the Dept. of Drugs Control",
+          "subjectCode": 236,
+          "date": "31-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Geologist in the Dept. of Mines and Geology",
+          "subjectCode": 237,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Librarian in the Dept. of Pre-University Education",
+          "subjectCode": 238,
+          "date": "30-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Child Development Project Officer in the Dept. of Women & Child Development / Superintendent Grade - 1 in the Dept. of Women & Child Development",
+          "subjectCode": 239,
+          "date": "26-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "Post Graduate Hindi Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 240,
+          "date": "31-05-2017",
+          "session": "10AM TO 12 PM"
+        },
+        {
+          "subject": "English Lecturers in Govt. Junior Technical Schools in the Dept. of Technical Education",
+          "subjectCode": 241,
+          "date": "31-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Environmental Engineer in Urban Local Bodies in the Directorate of Municipal Administration / Environmental Engineer in Mahanagara Palikes in the Directorate of Municipal Administration",
+          "subjectCode": 242,
+          "date": "26-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Chemistry Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities / Post Graduate Chemistry Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 243,
+          "date": "26-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Economics Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 244,
+          "date": "26-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Commerce Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 245,
+          "date": "31-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Post Graduate Computer Science Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 246,
+          "date": "31-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Libraian in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 247,
+          "date": "30-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Laboratory Assistant in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 248,
+          "date": "26-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Principals in Minorities Model Residential Schools in the Directorate of Minorities / Principals in Morarji Desai Residential Schools in the Directorate of Minorities / Principals in Morarji Desai Residential PU Colleges in the Directorate of Minorities / Vice Principals in Minorities Model Residential Schools in the Directorate of Minorities",
+          "subjectCode": 249,
+          "date": "27-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Draughtsman in the Dept. of Architecture",
+          "subjectCode": 250,
+          "date": "27-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Mechanical Engineering Lecturers in Govt. Junior Technical Schools in the Dept. of Technical Education",
+          "subjectCode": 251,
+          "date": "27-05-2017",
+          "session": "2PM TO 4 PM"
+        },
+        {
+          "subject": "General Studies Degree Standard",
+          "subjectCode": 252,
+          "date": "28-05-2017",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test(Group - /x' & 'C'[Technical] Group-B'[Tech & Non-Tech])",
+          "subjectCode": 253,
+          "date": "28-05-2017",
+          "session": "2PM TO 5 PM"
+        },
+        {
+          "subject": "English Language Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities / Post Graduate English Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 256,
+          "date": "29-05-2017",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Post Graduate Social Science Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 257,
+          "date": "31-05-2017",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Science Lecturers in Govt. Junior Technical Schools in the Dept. of Technical Education",
+          "subjectCode": 258,
+          "date": "29-05-2017",
+          "session": "2PM TO 4 PM"
+        },
+        {
+          "subject": "Kannada Language Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities & Post Graduate Kannada Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 260,
+          "date": "28-05-2017",
+          "session": "2PM TO 4 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Gazetted Probationers Preliminary Competitive Examination Held on 20-05-2017",
+      "date": "Dated: 12-05-2017",
+      "papers": [
+        {
+          "subject": "PAPER - I",
+          "subjectCode": 261,
+          "date": "20-08-2017",
+          "session": "10:00 A.M. to 12:00 P.M."
+        },
+        {
+          "subject": "PAPER - II",
+          "subjectCode": 262,
+          "date": "20-08-2017",
+          "session": "2:00 P.M. to 4:00 P.M."
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 26-08-2017",
+      "date": "Dated: 22-06-2017",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 263,
+          "date": "26-08-2017",
+          "session": "2.30 to 5.30 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 08-09-2017, 09-09-2017 & 10-09-2017",
+      "date": "Dated: 22-06-2017",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 264,
+          "date": "08-09-2017",
+          "session": "10.00 to 1.00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Below Degree Standard)",
+          "subjectCode": 265,
+          "date": "09-09-2017",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Junior Engineer (Civil) in water resource department",
+          "subjectCode": 266,
+          "date": "09-09-2017",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Junior Engineer (Mechanical) in water resource department",
+          "subjectCode": 267,
+          "date": "09-09-2017",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Degree Standard)",
+          "subjectCode": 268,
+          "date": "10-09-2017",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Assistant Engineer (Civil) in water resource department",
+          "subjectCode": 269,
+          "date": "10-09-2017",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Assistant Engineer (Mechanical) in water resource department",
+          "subjectCode": 270,
+          "date": "10-09-2017",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 13-10-2017 to 16-10-2017",
+      "date": "Dated: 23-06-2017",
+      "papers": [
+        {
+          "subject": "Kannada Language Teachers",
+          "subjectCode": 271,
+          "date": "14-10-2017",
+          "session": "10:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "Mathematics Teachers",
+          "subjectCode": 272,
+          "date": "14-10-2017",
+          "session": "10:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "Social Science Teachers",
+          "subjectCode": 273,
+          "date": "14-10-2017",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Science Teachers",
+          "subjectCode": 274,
+          "date": "14-10-2017",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "English Language Teachers",
+          "subjectCode": 275,
+          "date": "13-10-2017",
+          "session": "10:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "Hindi Language Teachers",
+          "subjectCode": 276,
+          "date": "13-10-2017",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "General paper -I(Degree Standard)",
+          "subjectCode": 277,
+          "date": "15-10-2017",
+          "session": "10:00 AM to11:30 AM"
+        },
+        {
+          "subject": "First Division Assistant cum Computer Operator & Wardens",
+          "subjectCode": 278,
+          "date": "15-10-2017",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Computer Science Teachers",
+          "subjectCode": 279,
+          "date": "16-10-2017",
+          "session": "10:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "Physical Education Teachers",
+          "subjectCode": 280,
+          "date": "16-10-2017",
+          "session": "2:00 PM to 4:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 25-02-2018, 10-02-2018 & 11-02-2018",
+      "date": "Dated: 29-02-2020",
+      "papers": [
+        {
+          "subject": "FDA (Objective /Multiple Choice Type)",
+          "subjectCode": 281,
+          "date": "25-02-2018",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "FDA (Objective /Multiple Choice Type)",
+          "subjectCode": 282,
+          "date": "25-02-2018",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "FDA (Objective /Multiple Choice Type)",
+          "subjectCode": 283,
+          "date": "25-02-2018",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Exam. (Descriptive Type)",
+          "subjectCode": 284,
+          "date": "10-02-2018",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type)",
+          "subjectCode": 285,
+          "date": "11-02-2018",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type)",
+          "subjectCode": 286,
+          "date": "11-02-2018",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type)",
+          "subjectCode": 287,
+          "date": "11-02-2018",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Compulsory Kannada",
+      "date": "Dated: 21-03-2018",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 288,
+          "date": "21-03-2018",
+          "session": "10:00 AM to 1:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 22-09-2018, 23-09-2018 & 24-09-2018",
+      "date": "Dated: 25-11-2017",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - I - (Below Degree Standard)",
+          "subjectCode": 289,
+          "date": "22-09-2018",
+          "session": "10:00 to 11:30 AM"
+        },
+        {
+          "subject": "Communication Paper - II - (Below Degree Standard)",
+          "subjectCode": 290,
+          "date": "22-09-2018",
+          "session": "2:00 to 4:00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - I - (Degree Standard)",
+          "subjectCode": 291,
+          "date": "23-09-2018",
+          "session": "10:00 to 11:30 AM"
+        },
+        {
+          "subject": "Communication Paper - II - (Degree Standard)",
+          "subjectCode": 292,
+          "date": "23-09-2018",
+          "session": "2:00 to 4:00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test (Both Technical & Non-Technical posts)",
+          "subjectCode": 293,
+          "date": "24-09-2018",
+          "session": "10:00 to 1:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 24-09-2018 to 05-10-2018",
+      "date": "Dated: 25-11-2017",
+      "papers": [
+        {
+          "subject": "Below degree standard General Paper (Female Staff Nurse in Morarji Desai Residential Schools in the Directorate of Minorities posts)",
+          "subjectCode": 294,
+          "date": "24-09-2018",
+          "session": "2 PM TO 3.30 PM"
+        },
+        {
+          "subject": "Post Graduate Physics Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 301,
+          "date": "28-09-2018",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Post Graduate Chemistry Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 302,
+          "date": "28-09-2018",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Libraian in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 303,
+          "date": "29-09-2018",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Post Graduate Computer Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 304,
+          "date": "29-09-2018",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Female Staff Nurse in Morarji Desai Residential Schools in the Directorate of Minorities posts",
+          "subjectCode": 305,
+          "date": "30-09-2018",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "General Paper Degree Standard (PG Teachers and Librarian)",
+          "subjectCode": 306,
+          "date": "30-09-2018",
+          "session": "2 PM TO 3.30 PM"
+        },
+        {
+          "subject": "Post Graduate Hindi Language Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 295,
+          "date": "03-10-2018",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Post Graduate Urdu Language Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 296,
+          "date": "03-10-2018",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Post Graduate Kannada LanguageTeachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 297,
+          "date": "04-10-2018",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Post Graduate English Language Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 298,
+          "date": "04-10-2018",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Post Graduate Social Science Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 299,
+          "date": "05-10-2018",
+          "session": "10AM TO 12PM"
+        },
+        {
+          "subject": "Post Graduate Mathematics Teachers in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities",
+          "subjectCode": 300,
+          "date": "05-10-2018",
+          "session": "2PM TO 4PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 27-12-2018 to 31-12-2018 & 02-01-2019 to 04-01-2019",
+      "date": "Dated: 19-02-2018",
+      "papers": [
+        {
+          "subject": "Fitter",
+          "subjectCode": 307,
+          "date": "27-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Secretarial Practice",
+          "subjectCode": 308,
+          "date": "27-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Engineering Drawing",
+          "subjectCode": 309,
+          "date": "27-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Draughtsman Civil",
+          "subjectCode": 310,
+          "date": "27-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Turner",
+          "subjectCode": 311,
+          "date": "28-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Information and Communication Technology System",
+          "subjectCode": 312,
+          "date": "28-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Workshop Calculation & Science",
+          "subjectCode": 313,
+          "date": "28-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Architectural Assistant",
+          "subjectCode": 314,
+          "date": "28-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Mechanic Refrigeration & Air-Conditioning (MRAC)",
+          "subjectCode": 315,
+          "date": "29-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Interior Design & Decoration",
+          "subjectCode": 316,
+          "date": "29-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Machinist",
+          "subjectCode": 317,
+          "date": "29-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Electroplasty",
+          "subjectCode": 318,
+          "date": "29-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada (for JTO)",
+          "subjectCode": 319,
+          "date": "30-12-2018",
+          "session": "10:00 AM to 1:00 PM"
+        },
+        {
+          "subject": "General Paper - 1 (Below Degree Standard)",
+          "subjectCode": 320,
+          "date": "30-12-2018",
+          "session": "2:00 PM to 3:30 PM"
+        },
+        {
+          "subject": "Welder",
+          "subjectCode": 321,
+          "date": "31-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Plastic Processing Operator (PPO)",
+          "subjectCode": 322,
+          "date": "31-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Draughtsman Mechanical",
+          "subjectCode": 323,
+          "date": "31-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Dress Making",
+          "subjectCode": 324,
+          "date": "31-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Carpenter",
+          "subjectCode": 325,
+          "date": "02-01-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Mechanic Machine Tool Maitenance (MMTM)",
+          "subjectCode": 326,
+          "date": "02-01-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Electrician",
+          "subjectCode": 327,
+          "date": "03-01-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Mechanic Motor Vehicle",
+          "subjectCode": 328,
+          "date": "03-01-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Electronic Mechanic",
+          "subjectCode": 329,
+          "date": "04-01-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Mechanic Diesel",
+          "subjectCode": 330,
+          "date": "04-01-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Instrument Mechanic",
+          "subjectCode": 331,
+          "date": "04-01-2019",
+          "session": "2:00 PM to 4:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 12-12-2018 to 16-12-2018",
+      "date": "Dated: 23-03-2018",
+      "papers": [
+        {
+          "subject": "Principals in Morarji Desai Residential PU Colleges in the Directorate of Minorities / Principals in Minorities Model Residential Schools (Navodaya) in the Directorate of Minorities / Principals in Morarji Desai Residential Schools in the Directorate of Minorities",
+          "subjectCode": 332,
+          "date": "12-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "District Manager / Assistant District Manager / Taluk Development Officer in Dr.B.R.Ambedkar Development Corporation Limited.",
+          "subjectCode": 333,
+          "date": "12-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Urdu Language Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 334,
+          "date": "12-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Assistant Engineer (Civil) in Mahanagar Palikes in the Dept. of Municipal Administration",
+          "subjectCode": 335,
+          "date": "12-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "English Language Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 336,
+          "date": "13-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Biology Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 337,
+          "date": "13-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Drug Inspector in the Dept. of Drugs Control",
+          "subjectCode": 338,
+          "date": "13-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Chemistry Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 339,
+          "date": "13-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "History Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 340,
+          "date": "13-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Physics Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 341,
+          "date": "14-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Economics Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 342,
+          "date": "14-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Assistant Director in the Dept. of Handloom and Textile",
+          "subjectCode": 343,
+          "date": "14-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Commerce Lecturer (Business Studies) in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 344,
+          "date": "14-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Mathematics Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 345,
+          "date": "15-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Accountancy Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 346,
+          "date": "15-12-2018",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Kannada Language Lecturer in Morarji Desai Residential PU Colleges in the Directorate of Minorities",
+          "subjectCode": 347,
+          "date": "15-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada (for Group 'A' & 'B' Technical / Non-Technical posts)",
+          "subjectCode": 348,
+          "date": "15-12-2018",
+          "session": "2:00 PM to 5:00 PM"
+        },
+        {
+          "subject": "General Paper-1 (Degree Standard)",
+          "subjectCode": 349,
+          "date": "16-12-2018",
+          "session": "10:00 AM to 11:30 AM"
+        },
+        {
+          "subject": "District Minorities Officer in the Dept. of Minorities Welfare",
+          "subjectCode": 350,
+          "date": "16-12-2018",
+          "session": "2:00 PM to 4:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 11-02-2019 to 15-02-2019",
+      "date": "Dated: 23-02-2018",
+      "papers": [
+        {
+          "subject": "First Division Assistant",
+          "subjectCode": 351,
+          "date": "11-02-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "First Division Assistant",
+          "subjectCode": 361,
+          "date": "11-02-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Second Division Assistant",
+          "subjectCode": 352,
+          "date": "11-02-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Second Division Assistant",
+          "subjectCode": 362,
+          "date": "11-02-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Field Assistant",
+          "subjectCode": 353,
+          "date": "12-02-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Assistant Environmental Officer",
+          "subjectCode": 354,
+          "date": "12-02-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Scientific Assistant",
+          "subjectCode": 355,
+          "date": "13-02-2019",
+          "session": "10:00 AM to 12:00 NOON"
+        },
+        {
+          "subject": "Assistant Scientific Officer",
+          "subjectCode": 356,
+          "date": "13-02-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Exam",
+          "subjectCode": 357,
+          "date": "14-02-2019",
+          "session": "10:00 AM to 1:00 PM"
+        },
+        {
+          "subject": "Legal Assistant",
+          "subjectCode": 358,
+          "date": "14-02-2019",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "General Paper -1 (Below Degree Standard) (Second Division Assistant & Field Assistant)",
+          "subjectCode": 359,
+          "date": "15-02-2019",
+          "session": "10:00 AM to 11:30 AM"
+        },
+        {
+          "subject": "General Paper -1 (Degree Standard) (First Division Assistant, Assistant Environmental Officer, Assistant Scientific Officer, Legal Assistant, Scientific Assistant)",
+          "subjectCode": 360,
+          "date": "15-02-2019",
+          "session": "2:00 PM to 3:30 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 17-02-2019",
+      "date": "Dated: 22-11-2018",
+      "papers": [
+        {
+          "subject": "Essay Writing & Translation (Descriptive)",
+          "subjectCode": 363,
+          "date": "17-02-2019",
+          "session": "10AM to 11.30AM"
+        },
+        {
+          "subject": "General studies (Degree Standard) Objective Multiple Choice Type",
+          "subjectCode": 364,
+          "date": "17-02-2019",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 08-06-2019, 09-06-2019 & 16-06-2019",
+      "date": "Dated: 11-02-2019 & 11-02-2019",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Exam. (Descriptive Type)",
+          "subjectCode": 365,
+          "date": "08-06-2019",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "FDA (Objective /Multiple Choice Type)",
+          "subjectCode": 366,
+          "date": "09-06-2019",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "FDA (Objective /Multiple Choice Type)",
+          "subjectCode": 367,
+          "date": "09-06-2019",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "FDA (Objective /Multiple Choice Type)",
+          "subjectCode": 368,
+          "date": "09-06-2019",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type)",
+          "subjectCode": 369,
+          "date": "16-06-2019",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type)",
+          "subjectCode": 370,
+          "date": "16-06-2019",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type)",
+          "subjectCode": 371,
+          "date": "16-06-2019",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Conservator of Forest in Forest Dept. Competitive Examination Held on 11-10-2020",
+      "date": "Dated: 05-09-2018",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - I",
+          "subjectCode": 372,
+          "date": "11-10-2020",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "Aptitude Test Paper - II",
+          "subjectCode": 373,
+          "date": "11-10-2020",
+          "session": "2.30 PM to 4.30 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 16-12-2019 to 19-12-2019",
+      "date": "Dated: 19-11-2018 & 22-11-2018 & 06-12-2018",
+      "papers": [
+        {
+          "subject": "Assistant General Manager in Karnataka State Agricultural Marketing Ltd.",
+          "subjectCode": 374,
+          "date": "16-12-2019",
+          "session": "10: 00 AM to 12: 00 NOON"
+        },
+        {
+          "subject": "Insurance Medical Officer in the Department of Employees State Insurance Planning (Medical) Services",
+          "subjectCode": 375,
+          "date": "16-12-2019",
+          "session": "10: 00 AM to 12: 00 NOON"
+        },
+        {
+          "subject": "Senior Assistant Director of Horticulture in the Department of Horticulture",
+          "subjectCode": 376,
+          "date": "16-12-2019",
+          "session": "10: 00 AM to 12: 00 NOON"
+        },
+        {
+          "subject": "Assistant Horticultural Officer in the Department of Horticulture",
+          "subjectCode": 377,
+          "date": "16-12-2019",
+          "session": "02: 00 PM to 04: 00 PM"
+        },
+        {
+          "subject": "Chief Librarian in the Department of Public Libraries",
+          "subjectCode": 378,
+          "date": "16-12-2019",
+          "session": "02: 00 PM to 04: 00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test (For all Group A & B posts, Headmasters & Various Subject Teachers pertaining to the above all Notifications)",
+          "subjectCode": 379,
+          "date": "17-12-2019",
+          "session": "10: 00 AM to 1: 00 PM"
+        },
+        {
+          "subject": "General Paper - I (For Headmasters & For all Group A & B posts )",
+          "subjectCode": 380,
+          "date": "17-12-2019",
+          "session": "02: 00 PM to 03: 30 PM"
+        },
+        {
+          "subject": "General Knowledge Paper - I (Degree Standard) (Kannada / English / Urdu / science / Social Science / Mathematics Teachers in Moulana Azad Residential Schools)",
+          "subjectCode": 381,
+          "date": "18-12-2019",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Communication Paper - II (Degree Standard) (Kannada / English / Urdu / science / Social Science / Mathematics Teachers in Moulana Azad Residential Schools)",
+          "subjectCode": 382,
+          "date": "18-12-2019",
+          "session": "02: 00 PM to 04: 00 PM"
+        },
+        {
+          "subject": "Headmasters in Moulana Azad Residential Schools",
+          "subjectCode": 383,
+          "date": "19-12-2019",
+          "session": "10: 00 AM to 12: 00 NOON"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 21-01-2021 & 24-01-2021",
+      "date": "Dated: 31-01-2020",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Paper I",
+          "subjectCode": 384,
+          "date": "08-10-2021",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "General Knowledge Paper III",
+          "subjectCode": 385,
+          "date": "24-01-2021",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "General Kannada Paper II",
+          "subjectCode": 386,
+          "date": "24-01-2021",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "General English Paper II",
+          "subjectCode": 387,
+          "date": "24-01-2021",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Gazetted Probationers Preliminary Competitive Examination Held on 24-08-2020",
+      "date": "Dated: 31-01-2020",
+      "papers": [
+        {
+          "subject": "PAPER - I",
+          "subjectCode": 388,
+          "date": "24-08-2020",
+          "session": "10:00 AM. to 12:00 Noon."
+        },
+        {
+          "subject": "PAPER - II",
+          "subjectCode": 389,
+          "date": "24-08-2020",
+          "session": "2:00 PM. to 4:00 PM."
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Controller in S.A.A.D (Preliminary) Competitive Examination Held on 17-08-2020",
+      "date": "Dated: 31-01-2020",
+      "papers": [
+        {
+          "subject": "General Studies - Paper - I",
+          "subjectCode": 390,
+          "date": "17-08-2020",
+          "session": "10.00 AM to 12.00 Noon."
+        },
+        {
+          "subject": "Commerce & Management Paper - II",
+          "subjectCode": 391,
+          "date": "17-08-2020",
+          "session": "2.00 PM to 4.00 PM."
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Controller in SAAD (Main) Competitive Examination Held on 21-12-2020, 23-12-2020, 24-12-2020 & 28-12-2020",
+      "date": "Dated: 27-10-2020",
+      "papers": [
+        {
+          "subject": "Kannada Paper - I",
+          "subjectCode": 392,
+          "date": "21-12-2020",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "English Paper - II",
+          "subjectCode": 393,
+          "date": "21-12-2020",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Financial Accounting, Management & Analysis Paper - V",
+          "subjectCode": 396,
+          "date": "23-12-2020",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Principles of Management, Organisation Behaviour, Training & Development Paper - VI",
+          "subjectCode": 397,
+          "date": "23-12-2020",
+          "session": "2.00 P.M. to 5.00 P.M."
+        },
+        {
+          "subject": "Corporate Finance, Business Economics & Taxation Paper - VII",
+          "subjectCode": 398,
+          "date": "24-12-2020",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Principles and Practice of Auditing & Computer Concepts, E-Commerce & Management Information Systems Paper - VIII",
+          "subjectCode": 399,
+          "date": "24-12-2020",
+          "session": "2.00 P.M. to 5.00 P.M."
+        },
+        {
+          "subject": "General Studies Paper - III",
+          "subjectCode": 394,
+          "date": "28-12-2020",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "General Studies Paper - IV",
+          "subjectCode": 395,
+          "date": "28-12-2020",
+          "session": "2.00 P.M. to 5.00 P.M."
+        }
+      ]
+    },
+    {
+      "examName": "ACF (Main) Competitive Examination Held on 27-01-2021, 28-01-2021, 29-01-2021 & 30-01-2021",
+      "date": "Dated: 07-12-2020",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 400,
+          "date": "27-01-2021",
+          "session": "9.30 A.M. to 11.30 A.M."
+        },
+        {
+          "subject": "Compulsory English",
+          "subjectCode": 401,
+          "date": "27-01-2021",
+          "session": "2.00 P.M. to 4.00 P.M"
+        },
+        {
+          "subject": "Forestry - I",
+          "subjectCode": 402,
+          "date": "28-01-2021",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Animal Husbandry & Veterinary Science",
+          "subjectCode": 403,
+          "date": "28-01-2021",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Botany",
+          "subjectCode": 404,
+          "date": "28-01-2021",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Civil Engineering",
+          "subjectCode": 405,
+          "date": "28-01-2021",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Forestry - II",
+          "subjectCode": 406,
+          "date": "28-01-2021",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Physics",
+          "subjectCode": 407,
+          "date": "28-01-2021",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Agriculture",
+          "subjectCode": 408,
+          "date": "29-01-2021",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Zoology",
+          "subjectCode": 409,
+          "date": "29-01-2021",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Chemistry",
+          "subjectCode": 410,
+          "date": "30-01-2021",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Mathematics",
+          "subjectCode": 411,
+          "date": "30-01-2021",
+          "session": "2.00 P.M. to 5.00 P.M"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 18-09-2021 & 19-09-2021",
+      "date": "Dated: 29-02-2020",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test (Descriptive Type)",
+          "subjectCode": 412,
+          "date": "18-09-2021",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type) General Knowledge Paper III",
+          "subjectCode": 413,
+          "date": "19-09-2021",
+          "session": "10 AM to 11:30 AM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type) General Kannada Paper II",
+          "subjectCode": 414,
+          "date": "19-09-2021",
+          "session": "2 PM to 3:30PM"
+        },
+        {
+          "subject": "SDA (Objective /Multiple Choice Type) General English Paper II",
+          "subjectCode": 415,
+          "date": "19-09-2021",
+          "session": "2 PM to 3:30PM"
+        }
+      ]
+    },
+    {
+      "examName": "Gazetted Probationers Main Competitive Examination Held on 13-02-2021, 14-02-2021, 15-02-2021 & 16-02-2021",
+      "date": "Dated: 23-11-2020",
+      "papers": [
+        {
+          "subject": "Qualifying Kannada/sst/2020/ccf #qत",
+          "subjectCode": 416,
+          "date": "13-02-2021",
+          "session": "10:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "Qualifying English/sst/2020/ccf # qqjrs",
+          "subjectCode": 417,
+          "date": "13-02-2021",
+          "session": "2:00 PM to 4:00 PM"
+        },
+        {
+          "subject": "Essay/2000",
+          "subjectCode": 418,
+          "date": "14-02-2021",
+          "session": "9:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "General Studies Paper - 1/m2009 qqj00s π δδ-1",
+          "subjectCode": 419,
+          "date": "15-02-2021",
+          "session": "9:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "General Studies Paper - II/m2009 qqj00s π δδ-11",
+          "subjectCode": 420,
+          "date": "15-02-2021",
+          "session": "2:00 PM to 5:00 PM"
+        },
+        {
+          "subject": "General Studies Paper - III/m2009 qqj00s π δδ-11",
+          "subjectCode": 421,
+          "date": "16-02-2021",
+          "session": "9:00 AM to12:00 Noon"
+        },
+        {
+          "subject": "General Studies Paper - IV/m2009 qqj00s π δδ-1 V",
+          "subjectCode": 422,
+          "date": "16-02-2021",
+          "session": "2:00 PM to 5:00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 30-07-2021, 31-07-2021 AND 01-08-2021",
+      "date": "Dated: 24-06-2020",
+      "papers": [
+        {
+          "subject": "District Manager Grade-A in Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation Limited, District Manager Grade-B in Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation Limited & Taluk Development Officer in Karnataka Maharshi Valmiki Scheduled Tribes Development Corporation Limited - Specific Paper - 2",
+          "subjectCode": 423,
+          "date": "30.07.2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Asst.Professor (Pharmaceutics) in the Dept.of Drugs Conrol - Specific Paper - 2",
+          "subjectCode": 424,
+          "date": "30.07.2021",
+          "session": "2 PM TO 4 PM"
+        },
+        {
+          "subject": "Assistant Director in the Directorate of Economics & Statistics - Specific Paper - 2",
+          "subjectCode": 425,
+          "date": "30.07.2021",
+          "session": "2 PM TO 4 PM"
+        },
+        {
+          "subject": "Environmental Engineer in Local Bodies in the Dept.of Municipal Administration - Specific Paper - 2",
+          "subjectCode": 426,
+          "date": "30.07.2021",
+          "session": "2 PM TO 4 PM"
+        },
+        {
+          "subject": "Assistant Engineer Division-I (Civil) in the Dept.of Water Resources - Specific Paper - 2",
+          "subjectCode": 427,
+          "date": "31.07.2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistant Engineer Division-I (Mechanical) in the Dept. of Water Resources - Specific Paper - 2",
+          "subjectCode": 428,
+          "date": "31.07.2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Asst.Director / Gazetted Manager / Manager Ravindra Kalakshetra in the Dept.of Kannada & Culture - Specific Paper - 2",
+          "subjectCode": 430,
+          "date": "31.07.2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistant Director in the Dept.of Industries and Commerce - Specific Paper - 2",
+          "subjectCode": 430,
+          "date": "31.07.2021",
+          "session": "2 PM TO 4 PM"
+        },
+        {
+          "subject": "General Paper Common for all Group 'A' & 'B' Posts - Genereal Paper-1",
+          "subjectCode": 431,
+          "date": "01.08.2021",
+          "session": "10AM TO 11.30 AM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test for Group \"A\" &\"B \"Posts",
+          "subjectCode": 432,
+          "date": "01.08.2021",
+          "session": "2 PM TO 3.30 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Director in the Department of Town and Country Planning Competitive Examination Held on 07-08-2021",
+      "date": "Dated: 24-06-2020",
+      "papers": [
+        {
+          "subject": "General Studies - Paper - I",
+          "subjectCode": 433,
+          "date": "07.08 .2021",
+          "session": "10.00 AM to 01.00 PM"
+        },
+        {
+          "subject": "Urban Regional Planning Paper - II",
+          "subjectCode": 434,
+          "date": "07.08 .2021",
+          "session": "2.00 PM to 5.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held from 26-10-2021 TO 30-10-2021",
+      "date": "Dated: 30-07-2020",
+      "papers": [
+        {
+          "subject": "Assistant Professors in Swasthavritta (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 435,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistant Professors in Rachana Shareera(Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 436,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Professors/ Assistant Professor in Kriya Shareera (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 437,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Professors/ Assistant Professor in Rasashastra & Bhaishajya Kalpana (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 438,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Professors/ Assistant Professor in Roganidana (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 439,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistant Professor in Anatomy (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush Specific Paper - 2",
+          "subjectCode": 440,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Associate Professors/ Assistant Professors in Obstetrics & Gynaecology (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 441,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistsant Professors in Pathology & Microbiology (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 442,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Associate Professors / Assistant Professors in Practice of Medicine (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 443,
+          "date": "26-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Professors/ Assistant Professor in Samhitha Siddhantha (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 444,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Assistant Professors in Agadatantra (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 445,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Professors/ Assistant Professors in Prasuti Tantra & Streeroga (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 446,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Assistant Professors in Kaumarabhritya/Balaroga (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 447,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Associate Professor/ Assistant Professors in Kayachikithsa (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 448,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Assistant Professor in Physiology including Bio-Chemistry (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 449,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Associate Professors/ Assistant Professors in Surgery (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 450,
+          "date": "26-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Assistant Professors in Shalyatantra (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 451,
+          "date": "27-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Professors/ Assistant Professors in Shalakyatantra (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 452,
+          "date": "27-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Professors/ Assistant Professors in Panchakarma (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 453,
+          "date": "27-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistant Professors in Sanskrit (Ayurveda) in Ayush Medical Colleges in the Dept. of Ayush Specific Paper - 2",
+          "subjectCode": 454,
+          "date": "27-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "Assistant Professors in Organon of Medicine (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 455,
+          "date": "27-10-2021",
+          "session": "10AM TO 12 Noon"
+        },
+        {
+          "subject": "General Paper (Professor/ Associate Professor/ Assistant Professor) (Ayurveda/ Homoeopathy) Genereal Paper-1",
+          "subjectCode": 456,
+          "date": "27-10-2021",
+          "session": "2PM TO 3.30PM"
+        },
+        {
+          "subject": "General Paper (Staff/Nurse/ Pharamacist) - General Paper-1",
+          "subjectCode": 457,
+          "date": "28-10-2021",
+          "session": "10AM TO 11.30 AM"
+        },
+        {
+          "subject": "Staff Nurse in the Department of Ayush - Specific Paper - 2",
+          "subjectCode": 458,
+          "date": "28-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Pharamacist in the Department of Ayush - Specific Paper - 2",
+          "subjectCode": 459,
+          "date": "28-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test for Group \"A\",\"B\" &\"C \"Posts in the Department of Ayush",
+          "subjectCode": 460,
+          "date": "29-10-2021",
+          "session": "10.00AM to 11.30AM"
+        },
+        {
+          "subject": "Assistant Professors in Homoeopathy Pharmacy (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 461,
+          "date": "29-10-2021",
+          "session": "2PM TO 4PM"
+        },
+        {
+          "subject": "Assistant Professors in Forensic Medicine & Toxicology (Homoeopathy) in Ayush Medical Colleges in the Dept. of Ayush - Specific Paper - 2",
+          "subjectCode": 462,
+          "date": "30-10-2021",
+          "session": "10AM TO 12 Noon"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Conservator of Forest in Forest Dept, Competitive Examination Held on 31-10-2021",
+      "date": "Dated: 13-10-2020",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - I",
+          "subjectCode": 463,
+          "date": "31-10-2021",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "Aptitude Test Paper - II",
+          "subjectCode": 464,
+          "date": "31-10-2021",
+          "session": "2.30 PM to 4.30 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Engineer & Junior Engineer Competitive Examination Held from 13-12-2021 TO 15-12-2021",
+      "date": "Dated: 30-07-2020",
+      "papers": [
+        {
+          "subject": "General Paper - 1 - Junior Engineer (Civil) in PWD",
+          "subjectCode": 465,
+          "date": "13-12-2021",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper - 2 - Junior Engineer (Civil) in PWD",
+          "subjectCode": 466,
+          "date": "13-12-2021",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "General Paper - 1 Assistant Engineer (Civil) in PWD",
+          "subjectCode": 467,
+          "date": "14-12-2021",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper - 2 - Assistant Engineer (Civil) in PWD",
+          "subjectCode": 468,
+          "date": "14-12-2021",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test AE & JE",
+          "subjectCode": 469,
+          "date": "15-12-2021",
+          "session": "10.00 to 11.30 AM"
+        }
+      ]
+    },
+    {
+      "examName": "Group \"C\" Non-Technical Posts Competitive Examination Held on 04-12-2021, 05-12-2021 & 1912-2021",
+      "date": "Dated: 31-07-2020",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 470,
+          "date": "04.12 .2021",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1 (Graduate)",
+          "subjectCode": 471,
+          "date": "05.12 .2021",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Communication Paper - 2 (Graduate)",
+          "subjectCode": 472,
+          "date": "05.12 .2021",
+          "session": "2.00 to 4.00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1 (Non-Graduate)",
+          "subjectCode": 473,
+          "date": "19.12 .2021",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Communication Paper - 2 (Non-Graduate)",
+          "subjectCode": 474,
+          "date": "19.12 .2021",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Competitive Examination Held on 05-05-2022",
+      "date": "Dated: 07-09-2022",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada",
+          "subjectCode": 475,
+          "date": "5 / 5 / 2022",
+          "session": "9.30 A.M. to 11.30 A.M."
+        },
+        {
+          "subject": "Compulsory English",
+          "subjectCode": 476,
+          "date": "5 / 5 / 2022",
+          "session": "2.00 P.M. to 4.00 P.M."
+        },
+        {
+          "subject": "Forestry - I",
+          "subjectCode": 477,
+          "date": "5 / 6 / 2022",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Animal Husbandry & Veterinary Science",
+          "subjectCode": 478,
+          "date": "5 / 6 / 2022",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Botany",
+          "subjectCode": 479,
+          "date": "5 / 6 / 2022",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Civil Engineering",
+          "subjectCode": 480,
+          "date": "5 / 6 / 2022",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Forestry - II",
+          "subjectCode": 481,
+          "date": "5 / 6 / 2022",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Physics",
+          "subjectCode": 482,
+          "date": "5 / 6 / 2022",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Agriculture",
+          "subjectCode": 483,
+          "date": "5 / 7 / 2022",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Zoology",
+          "subjectCode": 484,
+          "date": "5 / 7 / 2022",
+          "session": "2.00 P.M. to 5.00 P.M"
+        },
+        {
+          "subject": "Chemistry",
+          "subjectCode": 485,
+          "date": "5 / 8 / 2022",
+          "session": "9.30 A.M. to 12.30 P.M."
+        },
+        {
+          "subject": "Mathematics",
+          "subjectCode": 486,
+          "date": "5 / 8 / 2022",
+          "session": "2.00 P.M. to 5.00 P.M"
+        }
+      ]
+    },
+    {
+      "examName": "Drug Analyst in the Dept. of Ayush Competitive Examination Held on 29-11-2022 & 30-11-2022",
+      "date": "Dated: 09-03-2022",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 487,
+          "date": "29.11 .2022",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 488,
+          "date": "30.11 .2022",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 489,
+          "date": "30.11 .2022",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Junior Engineer in the Dept. of Rural Drinking Water and Sanitation Competitive Examination Held on 24-12-2022 & 25-12-2022",
+      "date": "Dated: 17-03-2022",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 490,
+          "date": "24.12 .2022",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 491,
+          "date": "25.12 .2022",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 492,
+          "date": "25.12 .2022",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Various Group 'C' Posts in the Directorate of Municiple Administration and Assistant Town Planner in the Dept. of Town and Country Planning Competitive Examination Held on 21-01-2023 & 22-01-2023",
+      "date": "Dated: 19-03-2022 & 22-04-2022",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 493,
+          "date": "21.01 .2023",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 494,
+          "date": "22.01 .2023",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 495,
+          "date": "22.01 .2023",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Engineer in the Dept. of Rural Drinking Water and Sanitation Competitive Examination Held on 25-02-2023 & 26-02-2023",
+      "date": "Dated: 21-02-2022 & 01-09-2022",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 496,
+          "date": "25.02 .2023",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "General Paper - Paper - 1",
+          "subjectCode": 497,
+          "date": "26.02 .2023",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper - Paper - 2",
+          "subjectCode": 498,
+          "date": "26.02 .2023",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Director in Various Subject in Forensic Science Laboratories in the Department of Police Competitive Examination Held on 07-03-2023 TO 10-03-2023",
+      "date": "Dated: 07-03-2022",
+      "papers": [
+        {
+          "subject": "Specific Paper (Paper-2) (Toxicology Section)",
+          "subjectCode": 499,
+          "date": "07.03 .2023",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Biology Section)",
+          "subjectCode": 500,
+          "date": "07.03 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (DNA Section)",
+          "subjectCode": 501,
+          "date": "08.03 .2023",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Chemical Section)",
+          "subjectCode": 502,
+          "date": "08.03 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Questioned Document Section)",
+          "subjectCode": 503,
+          "date": "09.03 .2023",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 504,
+          "date": "09.03 .2023",
+          "session": "2.00 PM to 3.30 PM"
+        },
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 505,
+          "date": "10.03 .2023",
+          "session": "10.00 AM to 12.00 Noon"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Statistical Officer (HK) and Statistical Inspector (HK) in the Directorate of Economics & Statistics and Labour Inspector (HK) in the Dept. of Labour Competitive Examination Held on 18-03-2023 AND 19-03-2023",
+      "date": "Dated: 26-07-2022, 30-09-2022 AND 14-10-2022",
+      "papers": [
+        {
+          "subject": "Compulsory Kannada Language Test",
+          "subjectCode": 506,
+          "date": "18.03 .2023",
+          "session": "3.00 PM to 5.00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 507,
+          "date": "19.03 .2023",
+          "session": "10.00 to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 508,
+          "date": "19.03 .2023",
+          "session": "2.00 to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Statistical Officer (RPC) and Statistical Inspector (RPC) in the Directorate of Economics & Statistics and Labour Inspector (RPC) in the Dept. of Labour Competitive Examination Held on 01-04-2023 AND 02-04-2023",
+      "date": "Dated: 14-10-2022, 15-10-2022 AND 29-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 509,
+          "date": "4 / 1 / 2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 510,
+          "date": "4 / 2 / 2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 511,
+          "date": "4 / 2 / 2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Director in the Dept. of Printing, Stationary & Publications, Translator in the Dept. of Translation and Town Planners in the Dept. of Town & Country Planning Competitive Examination Held on 11-04-2023 AND 12-04-2023",
+      "date": "Dated: 18-03-2022",
+      "papers": [
+        {
+          "subject": "Specific Paper (Paper-2) (Mechanical)",
+          "subjectCode": 514,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Electronics)",
+          "subjectCode": 515,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Computer Science)",
+          "subjectCode": 516,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Physics)",
+          "subjectCode": 517,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Chemistry)",
+          "subjectCode": 518,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Printing)",
+          "subjectCode": 519,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Translators)",
+          "subjectCode": 520,
+          "date": "11.04 .2023",
+          "session": "10.00 AM to 12.00 NOON"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Town Planners)",
+          "subjectCode": 521,
+          "date": "11.04 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 513,
+          "date": "12.04 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 512,
+          "date": "12.04 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Junior Engineer (Civil) & Junior Engineer (Mechanical) in the DPET, of Water Resources (HK) and Enumerator Cum Data Entry Operator (H.K) in the Directorate of Economics & Statistics Competitive Examination Held on 29-04-2023 AND 30-04-2023",
+      "date": "Dated: 06-10-2022 & 14-10-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 522,
+          "date": "29.04 .2023",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 523,
+          "date": "30.04 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 524,
+          "date": "30.04 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Electrical Inspector (HK) in Chief Electrical Inspectorate Competitive Examination Held on 25-05-2023 AND 26-05-2023",
+      "date": "Dated: 18-07-2022",
+      "papers": [
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 525,
+          "date": "25.05 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 526,
+          "date": "25.05 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 527,
+          "date": "26.05 .2023",
+          "session": "10.00 AM to 12.00 Noon"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Electrical Inspector in Chief Electrical Inspectorate (RPC) Competitive Examination Held on 03-06-2023 AND 04-06-2023",
+      "date": "Dated: 18-07-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 528,
+          "date": "6 / 3 / 2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 529,
+          "date": "6 / 4 / 2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 530,
+          "date": "6 / 4 / 2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Executive Engineer Grade-1 in the Department of Rural Drinking Water and Sanitation (HK) Competitive Examination Held on 15-06-2023 AND 16-06-2023",
+      "date": "Dated: 03-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 531,
+          "date": "15.06 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 532,
+          "date": "16.06 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 533,
+          "date": "16.06 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Executive Engineer Grade-1 in the Department of Rural Drinking Water and Sanitation (RPC) Competitive Examination Held on 01-07-2023 AND 02-07-2023",
+      "date": "Dated: 03-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 534,
+          "date": "01.07 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 535,
+          "date": "02.07 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 536,
+          "date": "02.07 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Director of Fisheris (HK) in the Department of Fisheris Competitive Examination Held on 11-07-2023 AND 12-07-2023",
+      "date": "Dated: 09-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 537,
+          "date": "11.07 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 538,
+          "date": "12.07 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 539,
+          "date": "12.07 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Sericulture Extension Officer (HK) in the Department of Sericulture Competitive Examination Held on 25-07-2023 AND 26-07-2023",
+      "date": "Dated: 03-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 540,
+          "date": "25.07 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 541,
+          "date": "26.07 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 542,
+          "date": "26.07 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Sericulture Extension Officer (RPC) in the Department of Sericulture Competitive Examination Held on 19-08-2023 AND 20-08-2023",
+      "date": "Dated: 29-07-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 543,
+          "date": "19.08 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 544,
+          "date": "20.08 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2)",
+          "subjectCode": 545,
+          "date": "20.08 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Director (HK) in the Department of Economic and Statistics Competitive Examination Held on 05-09-2023 AND 06-09-2023",
+      "date": "Dated: 03-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 546,
+          "date": "05.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 547,
+          "date": "06.09 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Computer Science)",
+          "subjectCode": 548,
+          "date": "06.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Economics)",
+          "subjectCode": 549,
+          "date": "06.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Mathematics)",
+          "subjectCode": 550,
+          "date": "06.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Statistics)",
+          "subjectCode": 551,
+          "date": "06.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Assistant Director (RPC) in the Department of Economic and Statistics Competitive Examination Held on 20-09-2023 AND 21-09-2023",
+      "date": "Dated: 03-09-2022",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 552,
+          "date": "20.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Paper (Paper - 1)",
+          "subjectCode": 553,
+          "date": "21.09 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Computer Science)",
+          "subjectCode": 554,
+          "date": "21.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Economics)",
+          "subjectCode": 555,
+          "date": "21.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Mathematics)",
+          "subjectCode": 556,
+          "date": "21.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "Specific Paper (Paper-2) (Statistics)",
+          "subjectCode": 557,
+          "date": "21.09 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Account Assistant (RPC) and Junior Account Assistant (RPC) in the Department of Karnataka State Accounts and Audit, Co-Operative Inspector (RPC/HK) in the Department of Cooperative Notified Vide Notification No.: PSC 455 RTB(4)/2022-23/2331 Dated:14-03-2023, PSC 454 RTB(4)/2022-23/2332 Dated: 15-03-2023, PSC 492 RTB(4)/2022-23/2335, Dated: 17-03-2023 AND PSC 166 RTB(4)/2022-23/2336, Dated 18-03-2023 Respectively Examination to be held on 04-11-2023 (AN)",
+      "date": "Dated: 14-03-2023, 15-03-2023, 17-03-2023 AND 18-03-2023",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 558,
+          "date": "04.11 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Account Assistant (RPC) in the Department of Karnataka State Accounts and Audit and Co-Operative Inspector (RPC) in the Department of Co-Operative Notified Vide Notification No :PSC 455 RTB(4)2022-23/2331 Dated:14-03-2023 AND PSC 492 RTB(4)2022-23/2335, Dated:17-03-2023 Respectively Competitive Examination Held on 05-11-2023",
+      "date": "Dated: 14-03-2023 AND 17-03-2023",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 559,
+          "date": "05.11 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Paper -2",
+          "subjectCode": 560,
+          "date": "05.11 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Junior Account Assistant (RPC) in the Department of Karnataka State Audit and Accounts Notified Vide Notification No : PSC 454 RTB(4)2022-23/2332, Dated 15-03-2023. Competitive Examination Held on 16-12-2023 & 17-12-2023",
+      "date": "Dated: 15-03-2023",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 561,
+          "date": "16.12 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 562,
+          "date": "17.12 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 563,
+          "date": "17.12 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Inspector of Co-Operative Societies (KK) in the Department of Co-Operation Notified Vide Notification No.: PSC 166 RTB(4)/2022-23/2336, Dated 18-03-2023. Competitive Examination Held on 30-12-2023",
+      "date": "Dated: 18-03-2023",
+      "papers": [
+        {
+          "subject": "General Knowledge - Paper - 1",
+          "subjectCode": 564,
+          "date": "30.12 .2023",
+          "session": "10.00 AM to 11.30 AM"
+        },
+        {
+          "subject": "Paper - 2",
+          "subjectCode": 565,
+          "date": "30.12 .2023",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Commercial Tax Inspector in the Commercial Tax Department (KK) Notified Vide Notification No.PSC 169 RTB(4)/2023-24, Dated:30.08.2023 Competitive Examination Held on 06-01-2024",
+      "date": "Dated: 30-08-2023",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 566,
+          "date": "06.01 .2024",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Knowledge Paper-1",
+          "subjectCode": 567,
+          "date": "07.01 .2024",
+          "session": "10.00 AM to 11.30 Noon"
+        },
+        {
+          "subject": "Paper-2",
+          "subjectCode": 568,
+          "date": "07.01 .2024",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": "Commercial Tax Inspector in the Commercial Tax Department (RPC) Notified Vide Notification No.PSC 168 RTB(4)/2023-24, Dated:28.08.2023 Competitive Examination Held on 20-01-2024",
+      "date": "Dated: 28-08-2023",
+      "papers": [
+        {
+          "subject": "Kannada Language Test",
+          "subjectCode": 569,
+          "date": "20.01.2024",
+          "session": "2.00 PM to 4.00 PM"
+        },
+        {
+          "subject": "General Knowledge Paper-1",
+          "subjectCode": 570,
+          "date": "21.01.2024",
+          "session": "10.00 AM to 11.30 Noon"
+        },
+        {
+          "subject": "Paper-2",
+          "subjectCode": 571,
+          "date": " 21.01.2024",
+          "session": "2.00 PM to 4.00 PM"
+        }
+      ]
+    },
+    {
+      "examName": " IAS OF KARNATAKA CADRE FROM NON SCS OFFICERS COMPETITIVE EXAMINATION TO BE HELD ON 28-01-2024",
+      "date": "Dated:  28-01-2024",
+      "papers": [
+        {
+          "subject": "General Studies Paper-I",
+          "subjectCode": 572,
+          "date": "28.01.2024",
+          "session": "10.00 AM to 12.00 Noon"
+        },
+        {
+          "subject": "General Studies Paper-II",
+          "subjectCode": 573,
+          "date": "28.01.2024",
+          "session": " 2.00 PM to 4.00 PM"
+        }
+      ]
+    }
+  ]
+}
